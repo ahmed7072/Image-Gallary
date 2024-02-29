@@ -8,7 +8,6 @@ import GlobalContext from './context/GlobalContext';
 function App() {
   return (
     <GlobalContext>
-      
       <ImageList/>
     </GlobalContext>
   );
